@@ -7,6 +7,9 @@
 [![PyPI Supported Django Versions](https://img.shields.io/pypi/djversions/slippers.svg)](https://docs.djangoproject.com/en/dev/releases/)
 [![GitHub Actions (Code quality and tests)](https://github.com/mixxorz/slippers/workflows/Code%20quality%20and%20tests/badge.svg)](https://github.com/mixxorz/slippers)
 
+
+Forked from: https://github.com/mixxorz/slippers
+
 Build reusable components in Django without writing a single line of Python.
 
 ```django
